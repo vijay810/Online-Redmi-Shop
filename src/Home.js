@@ -7,7 +7,6 @@ const Home = () =>{
             <h1 className="text-center mt-3">Online Shopping</h1>
             <section className='py-4 container'>
                 <div className = "row justify-content-center">
-
                     {Data.productData.map((item, index) => {
                         return(
                             <Itemcard 
