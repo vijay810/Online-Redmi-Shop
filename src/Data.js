@@ -10,8 +10,6 @@ const Data={
             title: 'Redmi 9 Activ',
             desc: '',
             price: 9499,
-            camera: "48mp Quad camera",
-            battery: '6000mAh',
 
         },
         {
